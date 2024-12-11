@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+sentence-transformers = "*"
+umap-learn = "*"
+plotly = "*"
+nbformat = "*"
+nltk = "*"
+gensim = "*"
+scipy = "==1.12"
+spacy = "*"
+duckdb = "*"
+flask = "*"
+flask-cors = "*"
+llama-cpp-python = "*"
+altair = "*"
+vegafusion = {extras = ["embed"], version = ">=1.5.0"}
+async-timeout = "*"
+datasets = "*"
+vec2text = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.11"

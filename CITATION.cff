@@ -1,0 +1,31 @@
+citation-file-format: 1.2.0
+creator:
+  - family-names: Yeh
+    given-names: Catherine
+  - family-names: Ren
+    given-names: Donghao
+  - family-names: Assogba
+    given-names: Yannick
+  - family-names: Moritz
+    given-names: Dominik
+  - family-names: Hohman
+    given-names: Fred
+title: Amplio
+version: 1.0.0
+url: https://github.com/apple/ml-interactive-data-augmentation
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Yeh
+      given-names: Catherine
+    - family-names: Ren
+      given-names: Donghao
+    - family-names: Assogba
+      given-names: Yannick
+    - family-names: Moritz
+      given-names: Dominik
+    - family-names: Hohman
+      given-names: Fred
+  title: "Exploring Empty Spaces: Human-in-the-Loop Data Augmentation"
+  year: 2024
+  journal: arXiv

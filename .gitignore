@@ -1,0 +1,40 @@
+Pipfile.lock
+.DS_Store
+.python-version
+secrets.json
+
+test.ipynb
+*.duckdb
+*.gguf
+__MACOSX/
+*.joblib
+outputs/
+experiments/
+
+__pycache__/
+eslint.config.js
+.prettierignore
+.prettierrc
+
+node_modules
+.vscode
+
+# Output
+.output
+.vercel
+.svelte-kit
+build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*

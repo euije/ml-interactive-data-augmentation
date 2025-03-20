@@ -8,7 +8,7 @@ This code accompanies the research paper:
 
 **Exploring Empty Spaces: Human-in-the-Loop Data Augmentation**  
 Catherine Yeh, Donghao Ren, Yannick Assogba, Dominik Moritz, Fred Hohman  
-*arXiv, 2024.*  
+*ACM Conference on Human Factors in Computing Systems (CHI), 2025.*  
 Paper: https://arxiv.org/abs/2410.01088
 
 ## Demo and Development Setup
@@ -106,12 +106,13 @@ When making contributions, refer to the [`CONTRIBUTING`](CONTRIBUTING.md) guidel
 To cite our paper, please use:
 
 ```bibtex
-@article{yeh2024exploring,
+@inproceedings{yeh2025exploring,
     title={{Exploring Empty Spaces: Human-in-the-Loop Data Augmentation}},
     author={Yeh, Catherine and Ren, Donghao and Assogba, Yannick and Moritz, Dominik and Hohman, Fred},
-    journal={arXiv preprint arXiv:2410.01088},
-    year={2024},
-    doi={10.48550/arXiv.2410.01088}
+    booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+    year={2025},
+    organization={ACM},
+    doi={10.1145/3706598.3713491}
 }
 ```
 

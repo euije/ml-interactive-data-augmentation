@@ -1,0 +1,380 @@
+{
+    "contents": [
+        {
+            "title": "Mobile code security by Java bytecode instrumentation",
+            "year": 2001
+        },
+        {
+            "title": "Fair Real-time Traffic Scheduling over a Wireless LAN",
+            "year": 2001
+        },
+        {
+            "title": "Embedded System Design Framework for Minimizing Code Size and Guaranteeing Real-Time Requirements",
+            "year": 2002
+        },
+        {
+            "title": "An Energy Measurement Based Collision Resolution Protocol",
+            "year": 2003
+        },
+        {
+            "title": "Periodic Resource Model for Compositional Real-Time Guarantees",
+            "year": 2003
+        },
+        {
+            "title": "A Design Approach for Real-Time Embedded Systems with Energy and Code Size Constraints",
+            "year": 2004
+        },
+        {
+            "title": "Compositional Real-Time Scheduling Framework",
+            "year": 2004
+        },
+        {
+            "title": "Incremental Schedulability Analysis of Hierarchical Real-Time Components",
+            "year": 2006
+        },
+        {
+            "title": "Compositional schedulability analysis of hierarchical real-time systems",
+            "year": 2007
+        },
+        {
+            "title": "SIRAP: A Synchronization Protocol for Hierarchical Resource Sharing in Real-Time Open Systems",
+            "year": 2007
+        },
+        {
+            "title": "Hierarchical Scheduling Framework for Virtual Clustering of Multiprocessors",
+            "year": 2008
+        },
+        {
+            "title": "Scheduling of Semi-Independent Real-Time Components: Overrun Methods and Resource Holding Times",
+            "year": 2008
+        },
+        {
+            "title": "Synthesis of Optimal Interfaces for Hierarchical Scheduling with Resources",
+            "year": 2008
+        },
+        {
+            "title": "A Design Framework for Real-Time Embedded Systems with Code Size and Energy Constraints",
+            "year": 2008
+        },
+        {
+            "title": "Compositional Real-Time Scheduling Framework with Periodic Model",
+            "year": 2008
+        },
+        {
+            "title": "Optimal Virtual Cluster-based Multiprocessor Scheduling",
+            "year": 2009
+        },
+        {
+            "title": "A Synchronization Protocol for Temporal Isolation of Software Components in Vehicular Systems",
+            "year": 2009
+        },
+        {
+            "title": "Online Robust Optimization Framework for QoS Guarantees in Distributed Soft Real-Time Systems",
+            "year": 2010
+        },
+        {
+            "title": "LLF Schedulability Analysis on Multiprocessor Platforms",
+            "year": 2010
+        },
+        {
+            "title": "Overrun Methods and Resource Holding Times for Hierarchical Scheduling of Semi-Independent Real-Time Components",
+            "year": 2010
+        },
+        {
+            "title": "Maximizing Contention-Free Executions in Multiprocessor Scheduling",
+            "year": 2011
+        },
+        {
+            "title": "Aciom: Application Characteristics-aware Disk and Network I/O Management on Android Platform",
+            "year": 2011
+        },
+        {
+            "title": "OptiTuner: On Performance Composition and Server Farm Energy Minimization Application",
+            "year": 2011
+        },
+        {
+            "title": "Zero-Laxity based Real-Time Multiprocessor Scheduling",
+            "year": 2011
+        },
+        {
+            "title": "Schedulability Analysis and Priority Assignment for Global Job-Level Fixed-Priority Multiprocessor Scheduling",
+            "year": 2012
+        },
+        {
+            "title": "SymPhoney: A Coordinated Dataflow Execution Engine for Concurrent Mobile Sensing Applications",
+            "year": 2012
+        },
+        {
+            "title": "Extending Task-level to Job-level Fixed Priority Assignment and Schedulability Analysis Using Pseudo-deadlines",
+            "year": 2012
+        },
+        {
+            "title": "A checkpoints capturing timing-robust Boolean model of the budding yeast cell cycle regulatory network",
+            "year": 2012
+        },
+        {
+            "title": "Convex Optimization Framework for Intermediate Deadline Assignment in Soft and Hard Real-Time Distributed Systems",
+            "year": 2012
+        },
+        {
+            "title": "Laxity Dynamics and LLF Schedulability Analysis on Multiprocessor Platforms",
+            "year": 2012
+        },
+        {
+            "title": "Global EDF Schedulability Analysis for Synchronous Parallel Tasks on Multicore Platforms",
+            "year": 2013
+        },
+        {
+            "title": "User Mobility-Aware Decision Making for Mobile Computation Offloading",
+            "year": 2013
+        },
+        {
+            "title": "GreenBag: Energy-efficient Bandwidth Aggregation for Real-time Streaming in Heterogeneous Mobile Wireless Networks",
+            "year": 2013
+        },
+        {
+            "title": "EDZL Schedulability Analysis in Real-Time Multi-Core Scheduling",
+            "year": 2013
+        },
+        {
+            "title": "Limited Carry-in Technique for Real-Time Multi-Core Scheduling",
+            "year": 2013
+        },
+        {
+            "title": "Scheduling in Heterogeneous Computing Environments for Proximity Queries",
+            "year": 2013
+        },
+        {
+            "title": "Scalable Path and Time Coordination for Robot Formation",
+            "year": 2014
+        },
+        {
+            "title": "Mobile Maestro: Enabling Immersive Multi-Speaker Audio Applications on Commodity Mobile Devices",
+            "year": 2014
+        },
+        {
+            "title": "MC-Fluid: Fluid Model-based Mixed-Criticality Scheduling on Multiprocessors",
+            "year": 2014
+        },
+        {
+            "title": "Mixed-Criticality Scheduling on Multiprocessors",
+            "year": 2014
+        },
+        {
+            "title": "Contention-Free Executions for Real-Time Multiprocessor Scheduling",
+            "year": 2014
+        },
+        {
+            "title": "Demand-Based Schedulability Analysis for Real-Time Multi-Core Scheduling",
+            "year": 2014
+        },
+        {
+            "title": "Resource Efficient Isolation Mechanisms in Mixed-Criticality Scheduling",
+            "year": 2015
+        },
+        {
+            "title": "Rethinking Energy-Performance Trade-Off in Mobile Web Page Loading",
+            "year": 2015
+        },
+        {
+            "title": "SounDroid: Supporting Real-Time Sound Application on Commodity Mobile Devices",
+            "year": 2015
+        },
+        {
+            "title": "Optimal Real-Time Scheduling on Two-Type Heterogeneous Multicore Platforms",
+            "year": 2015
+        },
+        {
+            "title": "Capturing urgency and parallelism using quasi-deadlines for real-time multiprocessor scheduling",
+            "year": 2015
+        },
+        {
+            "title": "Composition of Schedulability Analyses for Real-Time Multiprocessor Systems",
+            "year": 2015
+        },
+        {
+            "title": "An efficient steady-state analysis method for large Boolean networks with high maximum node connectivity",
+            "year": 2015
+        },
+        {
+            "title": "FlexDroid: Enforcing In-App Privilege Separation in Android",
+            "year": 2016
+        },
+        {
+            "title": "Thread-level Priority Assignment in Global Multiprocessor Scheduling for DAG Tasks",
+            "year": 2016
+        },
+        {
+            "title": "Rethinking Energy-Performance Trade-Off in Mobile Web Page Loading",
+            "year": 2016
+        },
+        {
+            "title": "GPU-SAM: Leveraging Multi-GPU Split-and-Merge Execution for System-wide Real-Time Support",
+            "year": 2016
+        },
+        {
+            "title": "Toward the Holographic Reconstruction of Sound Fields Using Smart Sound Devices",
+            "year": 2016
+        },
+        {
+            "title": "SGX-Shield: Enabling Address Space Layout Randomization for SGX Programs", 
+            "year": 2017
+        },
+        {
+            "title": "Mobile Plus: Multi-device Mobile Platform for Cross-device Functionality Sharing",
+            "year": 2017
+        },
+        {
+            "title": "MC-ADAPT: Adaptive Task Dropping in Mixed-Criticality Scheduling",
+            "year": 2017
+        },
+        {
+            "title": "REboost: Improving Throughput in Wireless Networks Using Redundancy Elimination",
+            "year": 2017
+        },
+        {
+            "title": "Global EDF Schedulability Analysis for Parallel Tasks on Multi-core Platforms",
+            "year": 2017
+        },
+        {
+            "title": "Enhancing Memory Error Detection for Large-Scale Applications and Fuzz Testing",
+            "year": 2018
+        },
+        {
+            "title": "Pride and Prejudice in Progressive Web Apps: Abusing Native App-like Features in Web Applications", 
+            "year": 2018
+        },
+        {
+            "title": "UbiTap: Leveraging Acoustic Dispersion for Ubiquitous Touch Interface on Solid Surfaces",
+            "year": 2018
+        },
+        {
+            "title": "MC-SDN: Supporting Mixed-Criticality Scheduling on Switched-Ethernet Using Software-Defined Networking",
+            "year": 2018
+        },
+        {
+            "title": "Multi-Level Contention-Free Policy for Real-Time Multiprocessor Scheduling",
+            "year": 2018
+        },
+        {
+            "title": "MC-Fluid: Multi-core Fluid-based Mixed-Criticality Scheduling",
+            "year": 2018
+        },
+        {
+            "title": "Cardiac auscultation using smartphones: a proof-of-concept study",
+            "year": 2018
+        },
+        {
+            "title": "Non-Preemptive Scheduling for Mixed-Criticality Real-Time Multiprocessor Systems",
+            "year": 2018
+        },
+        {
+            "title": "OBFSCURO: A Commodity Obfuscation Engine on Intel SGX",
+            "year": 2019
+        },
+        {
+            "title": "Fault-Resilient Real-Time Communication Using Software-Defined Networking",
+            "year": 2019
+        },
+        {
+            "title": "Razzer: Finding Kernel Race Bugs through Fuzzing",
+            "year": 2019
+        },
+        {
+            "title": "FLUID: Flexible User Interface Distribution for Ubiquitous Multi-device Interaction",
+            "year": 2019
+        },
+        {
+            "title": "Battery Aging Deceleration for Power-Consuming Real-Time Systems",
+            "year": 2019
+        },
+        {
+            "title": "JMC: Jitter-based Mixed-Criticality Scheduling for Distributed Real-Time Systems",
+            "year": 2019
+        },
+        {
+            "title": "MC-SDN: Supporting Mixed-Criticality Real-Time Communication Using Software-Defined Networking",
+            "year": 2019
+        },
+        {
+            "title": "HFL: Hybrid Fuzzing on the Linux Kernel",
+            "year": 2020
+        },
+        {
+            "title": "CHANCEL: Efficient Multi-client Isolation Under Adversarial Programs",
+            "year": 2021
+        },
+        {
+            "title": "AdCube: WebVR Ad Fraud and Practical Confinement of Third-Party Ads",
+            "year": 2021
+        },
+        {
+            "title": "FLUID-XP: Flexible User Interface Distribution for Cross-Platform Experience",
+            "year": 2021
+        },
+        {
+            "title": "LaLaRAND: Flexible Layer-by-Layer CPU/GPU Scheduling for Real-Time DNN Tasks",
+            "year": 2021
+        },
+        {
+            "title": "Online Evasion Attacks on Recurrent Models: The Power of Hallucinating the Future",
+            "year": 2022
+        },
+        {
+            "title": "SYMSAN: Time and Space Efficient Concolic Execution via Dynamic Data-flow Analysis",
+            "year": 2022
+        },
+        {
+            "title": "A-Mash: Providing Single-App Illusion for Multi-App Use through User-centric UI Mashup",
+            "year": 2022
+        },
+        {
+            "title": "RT-SDN: Adaptive Routing and Priority Ordering for Software-Defined Real-Time Networking",
+            "year": 2022
+        },
+        {
+            "title": "It is Okay to be Distracted: How Real-time Transcriptions Facilitate Online Meeting with Distraction",
+            "year": 2023
+        },
+        {
+            "title": "Diagnosing Kernel Concurrency Failures with AITIA",
+            "year": 2023
+        },
+        {
+            "title": "SEGFUZZ: Segmentizing Thread Interleaving to Discover Kernel Concurrency Bugs through Fuzzing",
+            "year": 2023
+        },
+        {
+            "title": "MixMax: Leveraging Heterogeneous Batteries to Alleviate Low Battery Experience for Mobile Users",
+            "year": 2023
+        },
+        {
+            "title": "Battery-aging-aware run-time slack management for power-consuming real-time systems",
+            "year": 2023
+        },
+        {
+            "title": "FLUID-IoT: Flexible and Granular Access Control in Shared IoT Environments via UI-Level Control Distribution",
+            "year": 2024
+        },
+        {
+            "title": "MobileGPT: Augmenting LLM with Human-like App Memory for Mobile Task Automation",
+            "year": 2024
+        },
+        {
+            "title": "Serenus: Alleviating Low-Battery Anxiety Through Real-time Accurate and User-Friendly Energy Consumption Prediction of Mobile Applications",
+            "year": 2024
+        },
+        {
+            "title": "Ozz: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering",
+            "year": 2024
+        },
+        {
+            "title": "EarDVFS: Environment-Adaptable RL-based DVFS for Mobile Devices",
+            "year": 2025
+        },
+        {
+            "title": "VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification",
+            "year": 2025
+        }
+    ]
+}

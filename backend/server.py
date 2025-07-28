@@ -38,10 +38,19 @@ sae_wiki = SAE(model_dict, dataset='wiki')
 print('-----------------------------------')
 sae_chi = SAE(model_dict, dataset='chi')
 print('-----------------------------------')
+sae_hcslab = SAE(model_dict, dataset='hcslab')
+print('-----------------------------------')
+sae_cps = SAE(model_dict, dataset='cps')
+print('-----------------------------------')
+sae_chi25 = SAE(model_dict, dataset='chi2025')
+print('-----------------------------------')
 
 SAE_DICT = {
     'wiki': sae_wiki,
-    'chi': sae_chi
+    'chi': sae_chi,
+    'hcslab': sae_hcslab,
+    'cps': sae_cps,
+    'chi2025': sae_chi25
 }
 
 """ END UPDATE """
@@ -390,4 +399,4 @@ def home(path):
 if __name__ == "__main__":
     print('Starting Flask server...')
     print('-----------------------------------')
-    app.run(debug=True, port=5000)
+    app.run(debug=False, port=5000)

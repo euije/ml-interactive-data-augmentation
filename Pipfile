@@ -16,7 +16,6 @@ spacy = "*"
 duckdb = "*"
 flask = "*"
 flask-cors = "*"
-llama-cpp-python = "*"
 altair = "*"
 vegafusion = {extras = ["embed"], version = ">=1.5.0"}
 async-timeout = "*"

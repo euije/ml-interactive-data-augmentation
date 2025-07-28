@@ -26,7 +26,7 @@ activation_threshold = 0.01
 # SAE CLASS
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
-wiki_sae_datasets = ['wiki', 'writing', 'chi']
+wiki_sae_datasets = ['wiki', 'writing', 'chi', 'hcslab', 'cps', 'chi2025']
 
 
 class SAE(object):

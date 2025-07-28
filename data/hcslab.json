@@ -1,0 +1,124 @@
+{
+    "contents": [
+        {
+            "title": "Aciom: Application Characteristics-aware Disk and Network I/O Management on Android Platform",
+            "year": 2011
+        },
+        {
+            "title": "Mobile Maestro: Enabling Immersive Multi-Speaker Audio Applications on Commodity Mobile Devices",
+            "year": 2014
+        },
+        {
+            "title": "Supporting Single-GPU Abstraction through Transparent Multi-GPU Execution for Real-Time Guarantees",
+            "year": 2014
+        },
+        {
+            "title": "Realtime Audio Coordination Framework for Immersive Sound Reproduction",
+            "year": 2014
+        },
+        {
+            "title": "Rethinking Energy-Performance Trade-Off in Mobile Web Page Loading",
+            "year": 2015
+        },
+        {
+            "title": "SounDroid: Supporting Real-Time Sound Application on Commodity Mobile Devices",
+            "year": 2015
+        },
+        {
+            "title": "Priority-Based Network Interrupt Scheduling for Predictable Real-Time Support",
+            "year": 2015
+        },
+        {
+            "title": "Rethinking Energy-Performance Trade-Off in Mobile Web Page Loading",
+            "year": 2016
+        },
+        {
+            "title": "TapSnoop - Inferring Tapstrokes from Listening to Tap Sound on Mobile Devices",
+            "year": 2016
+        },
+        {
+            "title": "GPU-SAM: Leveraging Multi-GPU Split-and-Merge Execution for System-wide Real-Time Support",
+            "year": 2016
+        },
+        {
+            "title": "UbiTap: Leveraging Acoustic Dispersion for Ubiquitous Touch Interface on Solid Surfaces",
+            "year": 2018
+        },
+        {
+            "title": "TapSnoop: Leveraging Tap Sounds to Infer Tapstrokes on Touchscreen Devices",
+            "year": 2020
+        },
+        {
+            "title": "VibAuth: Enabling Accurate, Usable, and Deployable User Authentication by Leveraging Vibration",
+            "year": 2020
+        },
+        {
+            "title": "Deep Learning-based Syllable Recognition Framework for Korean Children",
+            "year": 2021
+        },
+        {
+            "title": "WindTrack: Leveraging Wind and Sound to Track Angular Position of Users on Commercial Internet-Connected Fans",
+            "year": 2021
+        },
+        {
+            "title": "Your Tapstroke Tells Who You Are: Authenticating Smartphone Users with Tapstroke-driven Vibrations",
+            "year": 2022
+        },
+        {
+            "title": "MagSnoop: Listening to Sounds Induced by Magnetic Field Fluctuations to Infer Mobile Payment Tokens",
+            "year": 2022
+        },
+        {
+            "title": "A-Mash: Providing Single-App Illusion for Multi-App Use through User-centric UI Mashup",
+            "year": 2022
+        },
+        {
+            "title": "VRKeyLogger: Virtual Keystroke Inference Attack via Eavesdropping Controller Usage Pattern in WebVR",
+            "year": 2023
+        },
+        {
+            "title": "S-UbiTap: Leveraging Acoustic Dispersion for Ubiquitous and Scalable Touch Interface on Solid Surfaces",
+            "year": 2023
+        },
+        {
+            "title": "LiquidListener: Supporting Ubiquitous Liquid Volume Sensing via Singing Sounds",
+            "year": 2024
+        },
+        {
+            "title": "Action-Concentrated Embedding Framework: This is your captain sign-tokening",
+            "year": 2024
+        },
+        {
+            "title": "Extracting Payment Tokens Out of Sounds Produced by Magnetic Field Fluctuations",
+            "year": 2024
+        },
+        {
+            "title": "MagID: Enhancing the Functionality of Off-the-Shelf Smartphones through Magnetic Accessory Identification",
+            "year": 2024
+        },
+        {
+            "title": "TaPIN: Reinforcing PIN Authentication on Smartphones with Tap Biometrics",
+            "year": 2025
+        },
+        {
+            "title": "MagPie: Extending a Smartphone’s Interaction Space via a Customizable Magnetic Back-of-Device Input Accessory",
+            "year": 2025
+        },
+        {
+            "title": "Mitigating Resource Contention for Responsive On-device Machine Learning Inferences",
+            "year": 2025
+        },
+        {
+            "title": "SANFC: Establishing Secure Acoustic Near-Field Communication Channels through Collaborative Use of Stereo Speakers",
+            "year": 2025
+        },
+        {
+            "title": "Recognizing In-Air Hand Gestures by Listening to Vibrations through Everyday Surfaces",
+            "year": 2025
+        },
+        {
+            "title": "PoBiTag: Towards Unobtrusive and Customizable Tag-Based Interaction with Optical Polarization and Birefringence",
+            "year": 2025
+        }
+    ]
+}

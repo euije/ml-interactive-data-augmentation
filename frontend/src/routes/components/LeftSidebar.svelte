@@ -55,7 +55,7 @@
 	};
 
 	/* UPDATE HERE IF YOU ADD A NEW DATASET */
-	const dataOptions = ["wiki", "chi"]; // dataset options
+	const dataOptions = ["wiki", "chi", "hcslab", "cps", "chi2025"]; // dataset options
 	/* END UDPATE*/
 
 	const colorOptions = [
